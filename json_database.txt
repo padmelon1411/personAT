@@ -1,0 +1,5 @@
+[{"id":1,"firstname":"Marta","lastname":"Kolorowa","age":2},
+{"id":2,"firstname":"Matylda","lastname":"SuperHero","age":16},
+{"id":3,"firstname":"Patryk","lastname":"Vega","age":34},
+{"id":4,"firstname":"Marcin","lastname":"Jakiœ","age":17},
+{"id":5,"firstname":"Baba","lastname":"Jaga","age":100}]
